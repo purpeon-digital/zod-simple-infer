@@ -18,6 +18,14 @@
   ],
   "author": "Purpeon Digital AS",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purpeon-digital/zod-simple-infer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/purpeon-digital/zod-simple-infer/issues"
+  },
+  "homepage": "https://github.com/purpeon-digital/zod-simple-infer#readme",
   "peerDependencies": {
     "zod": ">=3"
   },
