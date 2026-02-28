@@ -1,0 +1,29 @@
+{
+  "name": "zod-simple-infer",
+  "version": "1.0.0",
+  "description": "A utility type that simplifies Zod's inferred types by expanding them inline",
+  "types": "index.d.ts",
+  "files": [
+    "index.d.ts"
+  ],
+  "scripts": {
+    "test": "vitest run --typecheck"
+  },
+  "keywords": [
+    "zod",
+    "infer",
+    "typescript",
+    "type",
+    "utility"
+  ],
+  "author": "Purpeon Digital AS",
+  "license": "MIT",
+  "peerDependencies": {
+    "zod": ">=3"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.18",
+    "zod": "^4.3.6"
+  }
+}

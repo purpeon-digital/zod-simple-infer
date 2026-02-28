@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "es2022",
+    "moduleResolution": "bundler",
+    "esModuleInterop": true,
+    "lib": ["es2020"],
+    "skipLibCheck": true
+  },
+  "include": ["index.d.ts", "index.test-d.ts"]
+}
